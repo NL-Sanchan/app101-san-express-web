@@ -1,5 +1,4 @@
-# express-api-server-template
-Express & ES6 REST API Boilerplate
+Express API server Template
 ==================================
 
 This is a straightforward boilerplate for building REST APIs with Express.
