@@ -12,7 +12,7 @@ export default ({ config, db }) => {
 
   let api = Router();
   let jsonParser = bodyParser.json();
-  let tableName = "fai_test_table"
+  let tableName = "EXAMPLE_TABLE"
 
   // Create
   api.post("/", jsonParser, (req, res) => {   
